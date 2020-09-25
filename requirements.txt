@@ -5,3 +5,5 @@ https://github.com/explosion/spacy-models/releases/download/de_core_news_md-2.3.
 aitextgen
 tensorflow
 tensorflow_datasets
+pandas
+scikit-learn
